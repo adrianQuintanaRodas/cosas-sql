@@ -9,6 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
+<<<<<<< HEAD
 public class sql2 extends javax.swing.JFrame {
 DefaultTableModel model=new DefaultTableModel();
 
@@ -24,6 +25,15 @@ public sql2() {
     restricted.setLimit(8);
     restricted.setOnlyNums(true);
 
+=======
+public class sql2 {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Bandai Ratas");
+	System.out.println("Bandai putos amos");
+	}
+	
+>>>>>>> branch 'master' of https://github.com/adrianQuintanaRodas/cosas-sql.git
 }
 
 
